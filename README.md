@@ -45,7 +45,7 @@ MediaPipe 0.10+
 NumPy
 
 📦 Installation
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/DevangPathak1133/Finger Gesture.git
 cd <repo-name>
 pip install -r requirements.txt
 
